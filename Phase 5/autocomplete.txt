@@ -1,0 +1,8 @@
+return
+for(i=0;i<n;i++
+while(
+printf("
+int
+main(
+#include
+<stdio.h>
