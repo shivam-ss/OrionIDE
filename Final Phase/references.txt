@@ -1,0 +1,2 @@
+http://forums.codeguru.com/showthread.php?539241-RESOLVED-can-anyone-tell-me-all-colors-const-for-SetConsoleTextAttribute()-function
+https://stackoverflow.com/questions/9203362/c-color-text-in-terminal-applications-in-windows
